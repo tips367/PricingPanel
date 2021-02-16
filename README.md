@@ -8,4 +8,12 @@ Project uses some of the features like :
 - Flexbox
 - Responsive design and media queries
 
+Desktop Screen: 
+
+![alt text](https://github.com/tips367/PricingPanel/blob/master/screenshot/desktop_layout.png)
+
+Phone Screen:
+
+![alt text](https://github.com/tips367/PricingPanel/blob/master/screenshot/mobile_layout.png)
+
 For any suggestion or enhancement feel free to raise an issue or a PR.
