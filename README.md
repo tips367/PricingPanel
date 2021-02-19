@@ -8,6 +8,10 @@ Project uses some of the features like :
 - Flexbox
 - Responsive design and media queries
 
+### Do you want to see the result ? ###
+
+[Click here!](https://tips367.github.io/PricingPanel/)
+
 Desktop Screen: 
 
 ![alt text](https://github.com/tips367/PricingPanel/blob/master/screenshot/desktop_layout.png)
